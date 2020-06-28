@@ -1,2 +1,2 @@
-# Rip_van_Winkle_Cipher_Python
- Encrypt or decrypt any given text using a Python program
+# Rip van Winkle Cipher Python
+A Python program that uses the Rip van Winkle Cipher to encrypt and decrypt strings of text made by the user. 
